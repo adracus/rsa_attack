@@ -1,3 +1,3 @@
 # rsa_attack
 
-A minimal command-line application.
+Try to break RSA modulus via miller rabin tests.
